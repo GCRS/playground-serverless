@@ -1,0 +1,6 @@
+{
+  "region": "us-west-2",
+  "resourcesStackName": "serverless-4jlpel-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::451167508006:role/serverless-4jlpel-dev-r-IamRoleLambda-4F44LC9WO1BM",
+  "apiGatewayApi": "serverless-4jlpel"
+}
